@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Este proycto es una api con crud de posts con un titulo una imagen de portada y una galeria de fotos
+## Este proyecto es una api con crud de posts con un titulo una imagen de portada y una galeria de fotos
 
 Creado el laravel 8.
 
