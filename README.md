@@ -12,21 +12,6 @@
 Creado el laravel 8.
 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Las Rutas
- Domain | Method    | URI                 | Name         | Action                                                      Middleware |
--+---------------------+--------------+------------------------------------------------------------+------------+
- GET|HEAD  | /                   |              | Closure                                                    | web        |
- GET|HEAD  | api/post            | post.index   | App\Http\Controllers\API\PostController@index              | api        |
- POST      | api/post            | post.store   | App\Http\Controllers\API\PostController@store              | api        |
- GET|HEAD  | api/post/{post}     | post.show    | App\Http\Controllers\API\PostController@show               | api        |
- PUT|PATCH | api/post/{post}     | post.update  | App\Http\Controllers\API\PostController@update             | api        |
- DELETE    | api/post/{post}     | post.destroy | App\Http\Controllers\API\PostController@destroy            | api        |
- GET|HEAD  | sanctum/csrf-cookie |              | Laravel\Sanctum\Http\Controllers\CsrfCookieController@show | web        |
-+--------+-----------+---------------------+--------------+---------------------------------------------
-*/
-
 ## El video de como hacerlo y como usarla 
 https://youtu.be/AFb4EEcJudc
 
@@ -35,5 +20,4 @@ https://youtu.be/AFb4EEcJudc
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # api-laravel-crud-post-galeria-imagen
-# https---github.com-compucenter33-api-laravel-crud-post-galeria-imagen
 # https---github.com-compucenter33-api-laravel-crud-post-galeria-imagen
