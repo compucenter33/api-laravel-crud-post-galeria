@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\File;
 class PostController extends Controller
 {
     /**
-     * http://127.0.0.1:8000/api/ver
+     * http://127.0.0.1:8000/api/post
      *
      * @return \Illuminate\Http\Response
      */
